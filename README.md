@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Yatish-14/Yatish-14/refs/heads/main/Yatish%20kr.%20Singh.png" alt="Banner">
 <h1 align="center">Hi 👋, I'm Yatish Kumar Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align ="right" width="400" src="https://raw.githubusercontent.com/Yatish-14/Yatish-14/refs/heads/main/Programming.gif" alt="Coding">
+<img align ="right" width="400" src="https://raw.githubusercontent.com/Yatish-14/Yatish-14/refs/heads/main/final.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatish-14&label=Profile%20views&color=0e75b6&style=flat" alt="yatish-14" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
