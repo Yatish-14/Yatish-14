@@ -51,13 +51,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yatish-kumar-singh-59a52b28b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/YatishSing54165">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="mailto:YATISHSINGH48@GMAIL.COM">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
   </a>
 </p>
 
