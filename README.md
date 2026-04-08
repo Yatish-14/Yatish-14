@@ -69,15 +69,21 @@
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,vite,git,github,c,cpp,java,python,mysql,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,vite,git,github,c,cpp,java,python,mysql,docker,kubernetes,redux" />
 </p>
 
 ---
+<!-- ================= Leetcode ================= -->
+ ## 🧩 LeetCode
+
+ <p>
+  <img src="https://leetcard.jacoblin.cool/Yatish_Singh?theme=dark&font=Baloo" />
+</p>
 
 <!-- ================= STATS ================= -->
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yatish-14&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
   
   <img src="https://nirzak-streak-stats.vercel.app/?user=Yatish-14&theme=github-dark&hide_border=true" height="150"/>
@@ -86,12 +92,13 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatish-14&theme=github_dark&hide_border=true&layout=compact"/>
 </p>
+--- -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yatish-14&" alt="Yatish-14" /></p>
 
----
 
 <!-- ================= CONTRIBUTIONS ================= -->
-## 🔝 Top Contributions
+ <!--🔝 Top Contributions-->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Yatish-14&limit=5&theme=github_dark&combine_all_yearly_contributions=true"/>
-</p>
+</p> -->
