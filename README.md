@@ -1,4 +1,4 @@
-<p align="center"><img src="banner1.png" width="100%" /></p>
+<p align="center"><img src="baner1.png" width="100%" /></p>
 <h1 align="center">Hi 👋, I'm Yatish Kumar Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align ="right" width="400" src="https://raw.githubusercontent.com/Yatish-14/Yatish-14/refs/heads/main/final.gif" alt="Coding">
