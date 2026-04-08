@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F2937&height=140&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:4FA3FF,100:8B5CF6&height=140&section=header"/>
 </p>
 
 <!-- Banner -->
