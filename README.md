@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="baner1(1).png" width="100%" />
+  <img src="baner1 (1).png" width="100%" />
 </p>
 
 <!-- Name -->
